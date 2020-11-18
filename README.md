@@ -50,6 +50,8 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 19/08/2020 - Criado o evento, repositório, publicações nas redes sociais gerado link sobre a atividade.
 - 02/09/2020 - Criado, divulgado o segundo evento, atualização de links no repositório.
 - 06/10/2020 - Listagem das pessoas que responderam o discourse para receber o módulo ESP32
+- 07/10/2020 - Chegaram os módulos.
+- 17/11/2020 - Agendada conversa de feedback do projeto, divulgação da atividade.
 
 ### Referencias
 
