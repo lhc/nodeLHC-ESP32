@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lhc_tijolo32_board-rescue)(type Legacy)(uri ${KIPRJMOD}/lhc_tijolo32_board-rescue.lib)(options "")(descr ""))
+)
