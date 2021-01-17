@@ -52,13 +52,11 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 06/10/2020 - Listagem das pessoas que responderam o discourse para receber o módulo ESP32
 - 07/10/2020 - Chegaram os módulos.
 - 17/11/2020 - Agendada conversa de feedback do projeto, divulgação da atividade.
+- 16/01/2021 - Pedro fez update conforme o último encontro de feedback.
+- 17/01/2021 - Atualizado no repositório, criado agenda de LIVE para o dia 22 de janeiro de 2021.
 
-### Referencias
-
-[ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
-
-[ESP32-WROOM Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
-
-[ESP32 Design Guidelines](https://www.espressif.com/sites/default/files/documentation/esp32_hardware_design_guidelines_en.pdf)
-
-[CH340G](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF)
+### Referências
+- [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [ESP32-WROOM Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
+- [ESP32 Design Guidelines](https://www.espressif.com/sites/default/files/documentation/esp32_hardware_design_guidelines_en.pdf)
+- [CH340G](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF)
