@@ -20,26 +20,26 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [Minatel KiCad Library](https://github.com/pedrominatel/minatel-kicad-libraries)
 - [SparkFun KiCad Library](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
 
-
-# checklist
+# Checklist
 - [x] LIVE 1 - Explicação geral e desenho
 - [x] LIVE 2 - Revisão esquemático e desenho da PCB parcial
 - [x] Lista de pessoas interessadas nos módulos
+- [x] [20/11 às 20 horas : Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
+- [ ] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 
 # Próximos passos
-- [ ] [20/11 às 20 horas : Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
-- [ ] LIVE 3 - Finalizar desenho da placa 
 - [ ] Validar artes PCB
 - [ ] Lista BOM
 - [ ] Produção PCB
-
 
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
 
 - [Parte 01 - 28/07/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/28-07-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad/148/2)
-- [Parte 02 - 11/09/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
-- [Parte 03 - 20/11 às 20 horas : Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
+- [Parte 02 - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
+- [Parte 03 - Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
+- [Parte 04 - Melhorias para o nodeLHC ESP32](https://discourse.lhc.net.br/t/parte-04-melhorias-para-o-nodelhc-esp32/230/2)
+- [Parte 05 - 22/01 às 20 horas: Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 
 # Ainda em construção 11/09/2020
 ![Kicad](projeto/assets/lhc_tijolo32_board.jpg)
