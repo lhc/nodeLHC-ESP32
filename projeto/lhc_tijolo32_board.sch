@@ -1164,9 +1164,9 @@ IO14-MTMS
 Text GLabel 7950 2250 2    50   BiDi ~ 0
 IO15-MTDO
 Text GLabel 7950 2350 2    50   BiDi ~ 0
-IO16
+SDA
 Text GLabel 7950 2450 2    50   BiDi ~ 0
-IO17
+SCL
 Text GLabel 7950 2550 2    50   BiDi ~ 0
 IO18
 Text GLabel 7950 2650 2    50   BiDi ~ 0
@@ -1330,7 +1330,7 @@ Text GLabel 9400 2650 0    50   BiDi ~ 0
 IO25
 Text GLabel 9400 2750 0    50   BiDi ~ 0
 IO26
-Text GLabel 9400 2850 0    50   BiDi ~ 0
+Text GLabel 10600 2150 2    50   BiDi ~ 0
 IO27
 Text GLabel 10600 1750 2    50   Input ~ 0
 ESP_RST
@@ -1820,4 +1820,6 @@ F 3 "" H 2700 7350 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2450 7000 2450 7100
+Wire Wire Line
+	10500 2150 10600 2150
 $EndSCHEMATC
