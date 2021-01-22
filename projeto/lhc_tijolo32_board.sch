@@ -1318,10 +1318,6 @@ Wire Notes Line
 	6350 4200 6350 3200
 Wire Notes Line
 	6350 3200 4750 3200
-Text GLabel 10600 2350 2    50   BiDi ~ 0
-IO32-32kXP
-Text GLabel 10600 2450 2    50   Input ~ 0
-IO33-32kXN
 Text GLabel 10600 2550 2    50   Input ~ 0
 IO34
 Text GLabel 10600 2650 2    50   Input ~ 0
@@ -1334,27 +1330,25 @@ Text GLabel 10600 2150 2    50   BiDi ~ 0
 IO27
 Text GLabel 10600 1750 2    50   Input ~ 0
 ESP_RST
-Text GLabel 9400 2250 0    50   Input ~ 0
+Text GLabel 9400 1950 0    50   Input ~ 0
 IO21
 Text GLabel 9400 3150 0    50   Input ~ 0
 ESP_TX
 Text GLabel 9400 3050 0    50   Input ~ 0
 ESP_RX
-Text GLabel 9400 2350 0    50   Input ~ 0
-IO22
-Text GLabel 9400 2150 0    50   Input ~ 0
-IO19
-Text GLabel 9400 2450 0    50   Input ~ 0
-IO23
 Text GLabel 9400 2050 0    50   Input ~ 0
+IO19
+Text GLabel 9800 1250 0    50   Input ~ 0
+IO23
+Text GLabel 9400 2150 0    50   Input ~ 0
 IO18
-Text GLabel 9400 1950 0    50   Input ~ 0
+Text GLabel 9400 2250 0    50   Input ~ 0
 IO5
 Text GLabel 9400 1750 0    50   Input ~ 0
 IO2
 Text GLabel 10600 2050 2    50   Input ~ 0
 ESP_BOOT
-Text GLabel 9400 1850 0    50   Input ~ 0
+Text GLabel 9400 2350 0    50   Input ~ 0
 IO4
 Text GLabel 9400 3350 0    50   Input ~ 0
 SDA
@@ -1371,9 +1365,9 @@ F 3 "" H 10300 1050 60  0001 C CNN
 	1    10300 1050
 	1    0    0    -1  
 $EndComp
-Text GLabel 10600 2750 2    50   Input ~ 0
+Text GLabel 10600 2350 2    50   Input ~ 0
 SVP
-Text GLabel 10600 2850 2    50   Input ~ 0
+Text GLabel 10600 2450 2    50   Input ~ 0
 SVN
 $Comp
 L power:+3V3 #PWR010
@@ -1493,8 +1487,6 @@ Wire Wire Line
 Wire Wire Line
 	9400 2350 9500 2350
 Wire Wire Line
-	9400 2450 9500 2450
-Wire Wire Line
 	10500 2350 10600 2350
 Wire Wire Line
 	10500 2450 10600 2450
@@ -1503,15 +1495,9 @@ Wire Wire Line
 Wire Wire Line
 	10500 2650 10600 2650
 Wire Wire Line
-	10500 2750 10600 2750
-Wire Wire Line
-	10500 2850 10600 2850
-Wire Wire Line
 	9400 2650 9500 2650
 Wire Wire Line
 	9400 2750 9500 2750
-Wire Wire Line
-	9400 2850 9500 2850
 Wire Wire Line
 	10000 3950 10000 3850
 $Comp
@@ -1822,4 +1808,12 @@ Wire Wire Line
 	2450 7000 2450 7100
 Wire Wire Line
 	10500 2150 10600 2150
+Text GLabel 9400 1850 0    50   Input ~ 0
+IO22
+Wire Wire Line
+	9800 1250 9900 1250
+Wire Wire Line
+	9900 1250 9900 1350
+NoConn ~ 9500 2450
+NoConn ~ 9500 2850
 $EndSCHEMATC

@@ -1318,17 +1318,13 @@ Wire Notes Line
 	6350 4200 6350 3200
 Wire Notes Line
 	6350 3200 4750 3200
-Text GLabel 10600 2850 2    50   BiDi ~ 0
-IO32-32kXP
-Text GLabel 10600 2750 2    50   Input ~ 0
-IO33-32kXN
 Text GLabel 10600 2550 2    50   Input ~ 0
 IO34
 Text GLabel 10600 2650 2    50   Input ~ 0
 IO35
-Text GLabel 9400 2650 0    50   BiDi ~ 0
+Text GLabel 10600 2750 2    50   BiDi ~ 0
 IO25
-Text GLabel 9400 2750 0    50   BiDi ~ 0
+Text GLabel 10600 2850 2    50   BiDi ~ 0
 IO26
 Text GLabel 10600 2150 2    50   BiDi ~ 0
 IO27
@@ -1498,14 +1494,6 @@ Wire Wire Line
 	10500 2550 10600 2550
 Wire Wire Line
 	10500 2650 10600 2650
-Wire Wire Line
-	10500 2750 10600 2750
-Wire Wire Line
-	10500 2850 10600 2850
-Wire Wire Line
-	9400 2650 9500 2650
-Wire Wire Line
-	9400 2750 9500 2750
 Wire Wire Line
 	10000 3950 10000 3850
 $Comp
@@ -1824,4 +1812,10 @@ Wire Wire Line
 	9900 1250 9900 1350
 NoConn ~ 9500 2450
 NoConn ~ 9500 2850
+Wire Wire Line
+	10500 2750 10600 2750
+Wire Wire Line
+	10500 2850 10600 2850
+NoConn ~ 9500 2750
+NoConn ~ 9500 2650
 $EndSCHEMATC
