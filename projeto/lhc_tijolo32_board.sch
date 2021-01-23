@@ -990,23 +990,23 @@ SCL
 Text GLabel 3200 3350 3    50   BiDi ~ 0
 SDA
 $Comp
-L Jumper:SolderJumper_3_Bridged12 JP2
+L Jumper:SolderJumper_3_Open JP2
 U 1 1 5F71E23B
 P 3800 3850
 F 0 "JP2" H 3800 4055 50  0000 C CNN
 F 1 "P1" H 3800 3964 50  0000 C CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels" H 3800 3850 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels" H 3800 3850 50  0001 C CNN
 F 3 "~" H 3800 3850 50  0001 C CNN
 	1    3800 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L Jumper:SolderJumper_3_Bridged12 JP1
+L Jumper:SolderJumper_3_Open JP1
 U 1 1 5F71F2AF
 P 3100 3850
 F 0 "JP1" H 3100 4055 50  0000 C CNN
 F 1 "P2" H 3100 3964 50  0000 C CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels" H 3100 3850 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels" H 3100 3850 50  0001 C CNN
 F 3 "~" H 3100 3850 50  0001 C CNN
 	1    3100 3850
 	1    0    0    -1  
@@ -1322,9 +1322,9 @@ Text GLabel 10600 2550 2    50   Input ~ 0
 IO34
 Text GLabel 10600 2650 2    50   Input ~ 0
 IO35
-Text GLabel 9400 2650 0    50   BiDi ~ 0
+Text GLabel 10600 2750 2    50   BiDi ~ 0
 IO25
-Text GLabel 9400 2750 0    50   BiDi ~ 0
+Text GLabel 10600 2850 2    50   BiDi ~ 0
 IO26
 Text GLabel 10600 2150 2    50   BiDi ~ 0
 IO27
@@ -1494,10 +1494,6 @@ Wire Wire Line
 	10500 2550 10600 2550
 Wire Wire Line
 	10500 2650 10600 2650
-Wire Wire Line
-	9400 2650 9500 2650
-Wire Wire Line
-	9400 2750 9500 2750
 Wire Wire Line
 	10000 3950 10000 3850
 $Comp
@@ -1816,4 +1812,10 @@ Wire Wire Line
 	9900 1250 9900 1350
 NoConn ~ 9500 2450
 NoConn ~ 9500 2850
+Wire Wire Line
+	10500 2750 10600 2750
+Wire Wire Line
+	10500 2850 10600 2850
+NoConn ~ 9500 2750
+NoConn ~ 9500 2650
 $EndSCHEMATC
