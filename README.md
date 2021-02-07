@@ -25,7 +25,9 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] LIVE 2 - Revisão esquemático e desenho da PCB parcial
 - [x] Lista de pessoas interessadas nos módulos
 - [x] [20/11 às 20 horas : Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
-- [ ] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
+- [x] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
+- [x] Enviado o e-mail de confirmação aos interessados ao módulos ESP32
+- [ ] Lista de interessados na compra coletiva
 
 # Próximos passos
 - [ ] Validar artes PCB
@@ -54,6 +56,8 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 17/11/2020 - Agendada conversa de feedback do projeto, divulgação da atividade.
 - 16/01/2021 - Pedro fez update conforme o último encontro de feedback.
 - 17/01/2021 - Atualizado no repositório, criado agenda de LIVE para o dia 22 de janeiro de 2021.
+- 07/20/2021 - Enviado e-mail aos interessados aos módulos
+             - Divulgação da compra coletiva de componentes para o nodeLHC
 
 ### Referências
 - [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
