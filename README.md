@@ -38,7 +38,6 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 # Checklist Review 01 nodeLHC
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
-| Ao baixar o projeto, você conseguiu carregar o projeto com todos os componentes?3| [ ] | [] |
 | Alimentação 3V3| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/2) | Aberto |
 | RX/TX| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/3) | Aberto |
 | Reset e Boot| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/4) | Aberto |
