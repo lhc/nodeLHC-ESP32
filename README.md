@@ -35,6 +35,23 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [ ] Listar BOM / Orçamentos
 - [ ] Produção PCB na PCBWay
 
+# Checklist Review 01
+- [] Ao baixar o projeto, você conseguiu carregar o projeto com todos os componentes?
+- [ ] Alimentação 3V3
+- [ ] ESP32-WROMM pins
+- [ ] OLED
+- [ ] Conector Debug/JTAG
+- [ ] Conversor USB para UART
+- [ ] Reset e Boot
+- [ ] RX/TX
+
+## Bill of Materials
+| Component           | Quantity | Link                                             |
+|---------------------|----------|--------------------------------------------------|
+| ESP32-WROOM-   | 1        |                                                  |
+|  |      |                                                  |
+
+
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
 
