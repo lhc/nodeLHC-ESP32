@@ -39,7 +39,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
 | Ao baixar o projeto, você conseguiu carregar o projeto com todos os componentes?3| [ ] | [] |
-| Alimentação 3V3| [ ] | [] |
+| Alimentação 3V3| - [ ] | - [] |
 | RX/TX| [ ] | [] |
 | Reset e Boot| [ ] | [] |
 | Alimentação 3V3| [ ] | [] |
