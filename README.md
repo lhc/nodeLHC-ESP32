@@ -30,9 +30,10 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [ ] Lista de interessados na compra coletiva
 
 # Próximos passos
-- [ ] Validar artes PCB
-- [ ] Lista BOM
-- [ ] Produção PCB
+- [ ] Revisão Março.2021
+- [ ] Validar artes na PCB (LHC/ Open Hardware)
+- [ ] Listar BOM / Orçamentos
+- [ ] Produção PCB na PCBWay
 
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
@@ -56,8 +57,9 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 17/11/2020 - Agendada conversa de feedback do projeto, divulgação da atividade.
 - 16/01/2021 - Pedro fez update conforme o último encontro de feedback.
 - 17/01/2021 - Atualizado no repositório, criado agenda de LIVE para o dia 22 de janeiro de 2021.
-- 07/20/2021 - Enviado e-mail aos interessados aos módulos
+- 07/02/2021 - Enviado e-mail aos interessados aos módulos
              - Divulgação da compra coletiva de componentes para o nodeLHC
+- 11/03/2021 - Atualização de revisão e update no projeto 
 
 ### Referências
 - [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
