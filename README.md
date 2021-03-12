@@ -40,14 +40,12 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 |---------------------|----------|----------|
 | Ao baixar o projeto, você conseguiu carregar o projeto com todos os componentes?3| [ ] | [] |
 | Alimentação 3V3| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/2) | Aberto |
-| RX/TX| Aberto | Aberto |
-| Reset e Boot| Aberto | Aberto |
-| Alimentação 3V3| Aberto | Aberto |
-|Conversor USB para UART| Aberto | Aberto |
-| Conector Debug/JTAG| Aberto | Aberto |
-| Alimentação 3V3| Aberto | Aberto |
-| OLED| Aberto | Aberto |
-| ESP32-WROMM pins| Aberto | Aberto |
+| RX/TX| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/3) | Aberto |
+| Reset e Boot| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/4) | Aberto |
+| Conversor USB para UART| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/5) | Aberto |
+| Conector Debug/JTAG| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/6) | Aberto |
+| OLED| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/7) | Aberto |
+| ESP32-WROMM pinout| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/8) | Aberto |
 
 ## Bill of Materials
 | Component           | Quantity | Link                                             |
