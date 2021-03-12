@@ -39,15 +39,15 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
 | Ao baixar o projeto, você conseguiu carregar o projeto com todos os componentes?3| [ ] | [] |
-| Alimentação 3V3| - [ ] | - [] |
-| RX/TX| [ ] | [] |
-| Reset e Boot| [ ] | [] |
-| Alimentação 3V3| [ ] | [] |
-|Conversor USB para UART| [ ] | [] |
-| Conector Debug/JTAG| [ ] | [] |
-| Alimentação 3V3| [ ] | [] |
-| OLED| [ ] | [] |
-| ESP32-WROMM pins| [ ] | [] |
+| Alimentação 3V3| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/2) | Aberto |
+| RX/TX| Aberto | Aberto |
+| Reset e Boot| Aberto | Aberto |
+| Alimentação 3V3| Aberto | Aberto |
+|Conversor USB para UART| Aberto | Aberto |
+| Conector Debug/JTAG| Aberto | Aberto |
+| Alimentação 3V3| Aberto | Aberto |
+| OLED| Aberto | Aberto |
+| ESP32-WROMM pins| Aberto | Aberto |
 
 ## Bill of Materials
 | Component           | Quantity | Link                                             |
