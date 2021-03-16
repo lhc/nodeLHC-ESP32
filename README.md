@@ -1,5 +1,9 @@
 ## PT-BR
 
+![Kicad](projeto/assets/nodelhc_01.png)
+![Kicad](projeto/assets/nodelhc_02.png)
+
+
 # nodeLHC-ESP32 
 
 ![Issues](https://img.shields.io/github/issues/lhc/nodeLHC-ESP32?style=flat-square)
