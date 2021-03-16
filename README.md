@@ -52,6 +52,9 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | ESP32-WROOM-   | 1        |                                                  |
 |  |      |                                                  |
 
+# Vídeos
+
+# Apoio
 
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
