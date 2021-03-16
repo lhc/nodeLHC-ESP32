@@ -38,13 +38,13 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 # Checklist Review 01 nodeLHC
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
-| Alimentação 3V3| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/2) | Aberto |
-| RX/TX| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/3) | Aberto |
-| Reset e Boot| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/4) | Aberto |
-| Conversor USB para UART| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/5) | Aberto |
-| Conector Debug/JTAG| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/6) | Aberto |
-| OLED| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/7) | Aberto |
-| ESP32-WROMM pinout| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/8) | Aberto |
+| Alimentação 3V3| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/2) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/9) |
+| RX/TX| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/3) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/10) |
+| Reset e Boot| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/4) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/11) |
+| Conversor USB para UART| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/5) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/12) |
+| Conector Debug/JTAG| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/6) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/13) |
+| OLED| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
+| ESP32-WROMM pinout| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/8) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/15) |
 
 ## Bill of Materials
 | Component           | Quantity | Link                                             |
