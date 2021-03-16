@@ -1,4 +1,4 @@
-## PT-BR
+## nodeLHC
 
 ![Kicad](projeto/assets/nodelhc_01.png)
 ![Kicad](projeto/assets/nodelhc_02.png)
@@ -31,7 +31,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] [20/11 às 20 horas : Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
 - [x] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 - [x] Enviado o e-mail de confirmação aos interessados ao módulos ESP32
-- [ ] Lista de interessados na compra coletiva
+- [x] [Lista de interessados na compra coletiva](https://docs.google.com/forms/d/11yyAbOFoUoV5jsIAHc90laWFHk0OwfYHXRMlwPwyAws/edit)
 
 # Próximos passos
 - [ ] Revisão Março.2021
@@ -56,23 +56,22 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | ESP32-WROOM-   | 1        |                                                  |
 |  |      |                                                  |
 
-# Vídeos
+# Vídeos gravados
+- [Construindo o nodeLHC ESP32 com Kicad - Parte 01 #nodeLHC](https://youtu.be/l77AwA57H2A?t=1641)
+- [Construindo o nodeLHC ESP32 com Kicad - Parte 02 #nodelhc](https://www.youtube.com/watch?v=WE6jsmoJX9M)
+- [Construindo o nodeLHC ESP32 com Kicad - Parte 05](https://www.youtube.com/watch?v=1r1fcpELneA)
 
-# Apoio
 
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
-
 - [Parte 01 - 28/07/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/28-07-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad/148/2)
 - [Parte 02 - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
 - [Parte 03 - Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
 - [Parte 04 - Melhorias para o nodeLHC ESP32](https://discourse.lhc.net.br/t/parte-04-melhorias-para-o-nodelhc-esp32/230/2)
 - [Parte 05 - 22/01 às 20 horas: Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 
-# Ainda em construção 11/09/2020
-![Kicad](projeto/assets/lhc_tijolo32_board.jpg)
-![Kicad](projeto/assets/lhc_tijolo32_board2.jpg)
-![Kicad](projeto/assets/lhc_tijolo32_board_bot.jpg)
+# Documentações em outras plataformas
+- [Hackday.io](https://hackaday.io/project/177704-lhc-tijolo32-esp32-development-board)
 
 # Log
 - 19/08/2020 - Criado o evento, repositório, publicações nas redes sociais gerado link sobre a atividade.
@@ -85,6 +84,7 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 07/02/2021 - Enviado e-mail aos interessados aos módulos
              - Divulgação da compra coletiva de componentes para o nodeLHC
 - 11/03/2021 - Atualização de revisão e update no projeto 
+- 16/03/2021 - Atualização de imagens e links de gravações
 
 ### Referências
 - [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
