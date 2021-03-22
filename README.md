@@ -56,6 +56,8 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | ESP32-WROOM-   | 1        |                                                  |
 |  |      |                                                  |
 
+[Clique aqui](https://htmlpreview.github.io/?https://github.com/lhc/nodeLHC-ESP32/blob/master/projeto/bom/ibom.html) para ver a BOM interativa
+
 # Vídeos gravados
 - [Construindo o nodeLHC ESP32 com Kicad - Parte 01 #nodeLHC](https://youtu.be/l77AwA57H2A?t=1641)
 - [Construindo o nodeLHC ESP32 com Kicad - Parte 02 #nodelhc](https://www.youtube.com/watch?v=WE6jsmoJX9M)
