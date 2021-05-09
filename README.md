@@ -41,6 +41,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [ ] Produção PCB na PCBWay
 
 # Checklist Review 01 nodeLHC
+
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
 | Alimentação 3V3| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/2) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/9) |
@@ -50,6 +51,12 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | Conector Debug/JTAG| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/6) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/13) |
 | OLED| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
 | ESP32-WROMM pinout| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/8) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/15) |
+
+# Revisores
+- Daniel
+- Adrian
+- Manassés 
+- Douglas
 
 ## Bill of Materials
 | Component           | Quantity | Link                                             |
