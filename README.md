@@ -32,10 +32,11 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 - [x] Enviado o e-mail de confirmação aos interessados ao módulos ESP32
 - [x] [Lista de interessados na compra coletiva](https://docs.google.com/forms/d/11yyAbOFoUoV5jsIAHc90laWFHk0OwfYHXRMlwPwyAws/edit)
+- [x] Reunião online para novos revisores. 
+- [ ] Validar artes na PCB (LHC/ Open Hardware)
 
 # Próximos passos
-- [ ] Revisão Abril.2021
-- [ ] Validar artes na PCB (LHC/ Open Hardware)
+- [ ] Revisão Maio 2021
 - [ ] Listar BOM / Orçamentos
 - [ ] Produção PCB na PCBWay
 
@@ -47,7 +48,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 | Reset e Boot| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/4) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/11) |
 | Conversor USB para UART| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/5) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/12) |
 | Conector Debug/JTAG| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/6) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/13) |
-| OLED| [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
+| OLED| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
 | ESP32-WROMM pinout| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/8) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/15) |
 
 ## Bill of Materials
