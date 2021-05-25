@@ -36,7 +36,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [ ] Validar artes na PCB (LHC/ Open Hardware)
 
 # Próximos passos
-- [ ] Revisão Maio 2021
+- [ ] [Revisão 25 Maio 2021](meet.google.com/ngs-ypnc-mkd)
 - [ ] Listar BOM / Orçamentos
 - [ ] Produção PCB na PCBWay
 
