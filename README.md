@@ -33,10 +33,10 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] Enviado o e-mail de confirmação aos interessados ao módulos ESP32
 - [x] [Lista de interessados na compra coletiva](https://docs.google.com/forms/d/11yyAbOFoUoV5jsIAHc90laWFHk0OwfYHXRMlwPwyAws/edit)
 - [x] Reunião online para novos revisores. 
-- [ ] Validar artes na PCB (LHC/ Open Hardware)
+- [x] Validar artes na PCB (LHC/ Open Hardware)
+- [ ] - [x] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
 
 # Próximos passos
-- [ ] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
 - [ ] Listar BOM / Orçamentos
 - [ ] Produção PCB na PCBWay
 
@@ -44,13 +44,13 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 
 | Itens           | Check | Double Check  |
 |---------------------|----------|----------|
-| Alimentação 3V3| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/2) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/9) |
-| RX/TX| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/3) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/10) |
-| Reset e Boot| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/4) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/11) |
-| Conversor USB para UART| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/5) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/12) |
-| Conector Debug/JTAG| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/6) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/13) |
-| OLED| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
-| ESP32-WROMM pinout| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/8) | [Aberto](https://github.com/lhc/nodeLHC-ESP32/issues/15) |
+| Alimentação 3V3| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/2) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/9) |
+| RX/TX| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/3) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/10) |
+| Reset e Boot| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/4) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/11) |
+| Conversor USB para UART| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/5) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/12) |
+| Conector Debug/JTAG| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/6) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/13) |
+| OLED| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/7) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/14) |
+| ESP32-WROMM pinout| [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/8) | [Fechado](https://github.com/lhc/nodeLHC-ESP32/issues/15) |
 
 # Revisores
 - Daniel
@@ -95,6 +95,7 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
              - Divulgação da compra coletiva de componentes para o nodeLHC
 - 11/03/2021 - Atualização de revisão e update no projeto 
 - 16/03/2021 - Atualização de imagens e links de gravações
+- 30/05/2021 - Feedback do Daniel registrado e atualização no README.md
 
 ### Referências
 - [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
