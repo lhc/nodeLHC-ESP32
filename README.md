@@ -1,4 +1,4 @@
-## nodeLHC ESP32-S2
+## nodeLHC
 
 ![Kicad](projeto/assets/nodelhc_01.png)
 ![Kicad](projeto/assets/nodelhc_02.png)
