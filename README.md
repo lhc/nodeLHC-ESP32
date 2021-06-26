@@ -34,7 +34,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] [Lista de interessados na compra coletiva](https://docs.google.com/forms/d/11yyAbOFoUoV5jsIAHc90laWFHk0OwfYHXRMlwPwyAws/edit)
 - [x] Reunião online para novos revisores. 
 - [x] Validar artes na PCB (LHC/ Open Hardware)
-- [ ] - [x] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
+- [x] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
 
 # Próximos passos
 - [ ] Listar BOM / Orçamentos
