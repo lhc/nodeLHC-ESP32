@@ -1370,7 +1370,7 @@ F 3 "" H 10000 1050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Module:Adafruit_Feather_Generic A1
+L lhc_tijolo32_board-rescue:Adafruit_Feather_Generic-MCU_Module A1
 U 1 1 60103BE5
 P 10000 2550
 F 0 "A1" H 9750 1150 50  0000 C CNN

@@ -108,17 +108,6 @@ F 3 "~" H 3800 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_01x04_Female J2
-U 1 1 5F4C7D74
-P 4150 3100
-F 0 "J2" H 4178 3076 50  0000 L CNN
-F 1 "OLED" H 4000 2800 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4150 3100 50  0001 C CNN
-F 3 "~" H 4150 3100 50  0001 C CNN
-	1    4150 3100
-	1    0    0    -1  
-$EndComp
-$Comp
 L lhc_tijolo32_board-rescue:5V-SparkFun-PowerSymbols #SUPPLY0101
 U 1 1 5F4CA7F8
 P 1550 6350
@@ -1800,7 +1789,7 @@ U 1 1 60E6BCFF
 P 4750 5400
 F 0 "J4" H 4830 5392 50  0000 L CNN
 F 1 "Conn_01x06" H 4830 5301 50  0000 L CNN
-F 2 "" H 4750 5400 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 4750 5400 50  0001 C CNN
 F 3 "~" H 4750 5400 50  0001 C CNN
 	1    4750 5400
 	1    0    0    -1  
@@ -1811,9 +1800,20 @@ U 1 1 60E71DE0
 P 5950 5400
 F 0 "J5" H 6030 5392 50  0000 L CNN
 F 1 "Conn_01x06" H 6030 5301 50  0000 L CNN
-F 2 "" H 5950 5400 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 5950 5400 50  0001 C CNN
 F 3 "~" H 5950 5400 50  0001 C CNN
 	1    5950 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J2
+U 1 1 60EE69F4
+P 4150 3100
+F 0 "J2" H 4230 3092 50  0000 L CNN
+F 1 "Conn_01x04" H 3800 2750 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 4150 3100 50  0001 C CNN
+F 3 "~" H 4150 3100 50  0001 C CNN
+	1    4150 3100
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
