@@ -344,7 +344,7 @@
       (net 19 ESP_RX))
     (pad 1 thru_hole rect (at 0 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 2 5V))
-    (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.wrl
+    (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -839,10 +839,10 @@
       (net 1 GND) (solder_mask_margin 0.1016))
     (pad 1 smd rect (at -3.1496 0 90) (size 2.2987 1.59766) (layers F.Cu F.Paste F.Mask)
       (net 4 ESP_RST) (solder_mask_margin 0.1016))
-    (model "/home/multivac2/kicad/minatel-kicad-libraries/3d/PTS636 SM43J SMTR LFS--3DModel-STEP-56544.STEP"
+    (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_FSMSM.step
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1282,6 +1282,11 @@
       (net 42 D-))
     (model /home/multivac2/kicad/minatel-kicad-libraries/3d/1-1734028-1.stp
       (offset (xyz 10.7 0 0.95))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -90))
+    )
+    (model ${KIPRJMOD}/assets/3d/1-1734028-1.stp
+      (offset (xyz 10.8 0 0.97))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -90))
     )
