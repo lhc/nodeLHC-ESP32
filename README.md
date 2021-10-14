@@ -37,8 +37,11 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
 
 # Próximos passos
+- [x] Convite Latinoware 2021
 - [ ] Listar BOM / Orçamentos
-- [ ] Produção PCB na PCBWay
+- [ ] Produção da PCB
+- [ ] LIVE de soldando o nodeLHC
+- [ ] Distribuição para os participantes
 
 # Checklist Review 01 nodeLHC
 
