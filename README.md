@@ -19,7 +19,7 @@ Em 2015 durante as oficinas de IoT no Hackerspace, criamos uma primeira versão 
 Descrições e detalhes:
 Essa é uma primeira atividade que ao decorrer iremos construir novos projetos no formato aberto e colaborativo aproveitando a placa de desenvolvimento nodeLHC ESP32
 
-- [KiCad](https://kicad-pcb.org/)
+- [KiCad](https://kicad.org/)
 - [LHC KiCad Library](https://github.com/lhc/lhc_kicad_library)
 - [Minatel KiCad Library](https://github.com/pedrominatel/minatel-kicad-libraries)
 - [SparkFun KiCad Library](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
