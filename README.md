@@ -4,11 +4,11 @@
 ![Kicad](projeto/assets/nodelhc_02.png)
 
 
-# nodeLHC-ESP32 
+# nodeLHC-ESP32
 
 ![Issues](https://img.shields.io/github/issues/lhc/nodeLHC-ESP32?style=flat-square)
 
-![forks](https://img.shields.io/github/forks/lhc/nodeLHC-ESP32)  
+![forks](https://img.shields.io/github/forks/lhc/nodeLHC-ESP32)
 
 ![Stars](https://img.shields.io/github/stars/lhc/nodeLHC-ESP32?style=plastic)
 
@@ -32,7 +32,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] [LIVE 3 no dia 22 de janeiro de 2021 - Finalizar placa com KiCad](https://discourse.lhc.net.br/t/parte-05-finalizando-o-nodelhc-esp32-com-kicad/244)
 - [x] Enviado o e-mail de confirmação aos interessados ao módulos ESP32
 - [x] [Lista de interessados na compra coletiva](https://docs.google.com/forms/d/11yyAbOFoUoV5jsIAHc90laWFHk0OwfYHXRMlwPwyAws/edit)
-- [x] Reunião online para novos revisores. 
+- [x] Reunião online para novos revisores.
 - [x] Validar artes na PCB (LHC/ Open Hardware)
 - [x] [Videoconferência Revisão do nodeLHC: 25 Maio 2021 às 20 horas](meet.google.com/ngs-ypnc-mkd)
 
@@ -58,7 +58,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 # Revisores
 - Daniel
 - Adrian
-- Manassés 
+- Manassés
 - Douglas
 
 ## Bill of Materials
@@ -69,14 +69,18 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 
 [Clique aqui](https://htmlpreview.github.io/?https://github.com/lhc/nodeLHC-ESP32/blob/master/projeto/bom/ibom.html) para ver a BOM interativa
 
+Para gerar a BOM interativa, é necessário [instalar o plugin no KiCad](https://github.com/openscopeproject/InteractiveHtmlBom/wiki/Installation) e seguir as [orientações de uso](https://github.com/openscopeproject/InteractiveHtmlBom/wiki/Usage)
+
+Para utilizar o plugin, no KiCad 6.x, após instalação concluída, utilize `PCB Editor > Tools > External Plugins > Generate Integractive HTML BOM`
+
 # Vídeos gravados
 - [Construindo o nodeLHC ESP32 com Kicad - Parte 01 #nodeLHC](https://youtu.be/l77AwA57H2A?t=1641)
 - [Construindo o nodeLHC ESP32 com Kicad - Parte 02 #nodelhc](https://www.youtube.com/watch?v=WE6jsmoJX9M)
 - [Construindo o nodeLHC ESP32 com Kicad - Parte 05](https://www.youtube.com/watch?v=1r1fcpELneA)
 
 
-# Discourse 
-Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
+# Discourse
+Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - [Parte 01 - 28/07/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/28-07-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad/148/2)
 - [Parte 02 - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
 - [Parte 03 - Feedback comunidade](https://discourse.lhc.net.br/t/parte-03-20-11-2020-coleta-de-feedback-do-nodelhc-esp32/225)
@@ -96,7 +100,7 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 - 17/01/2021 - Atualizado no repositório, criado agenda de LIVE para o dia 22 de janeiro de 2021.
 - 07/02/2021 - Enviado e-mail aos interessados aos módulos
              - Divulgação da compra coletiva de componentes para o nodeLHC
-- 11/03/2021 - Atualização de revisão e update no projeto 
+- 11/03/2021 - Atualização de revisão e update no projeto
 - 16/03/2021 - Atualização de imagens e links de gravações
 - 30/05/2021 - Feedback do Daniel registrado e atualização no README.md
 
